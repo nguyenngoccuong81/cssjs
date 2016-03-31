@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://xaydungnhacap4dep.blogspot.com/' target='_blank'><img src='https://www.google.com.vn/search?q=x%C3%A2y+nh%C3%A0+gi%C3%A1+r%E1%BA%BB&biw=1366&bih=657&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi0zuXQ--rLAhWRQpQKHUO6Ch8Q_AUIBigB#imgrc=fNO_YOCLgOai3M%3A' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://xaydungnhacap4dep.blogspot.com/' target='_blank'><img src='http://www.suachuanhadep24.com/uploads/images/nha-xay-nha-binh-duong.png' width='500px'/>Xây dựng nhà cấp 4 giá rẻ</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
